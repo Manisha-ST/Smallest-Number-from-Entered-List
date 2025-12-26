@@ -1,0 +1,1 @@
+# Smallest-Number-from-Entered-List
